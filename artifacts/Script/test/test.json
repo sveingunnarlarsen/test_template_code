@@ -9,12 +9,18 @@
 			"name": "moment",
 			"contextname": "moment",
 			"path": "/Dev/custom_modules/node_modules/moment"
+		},
+		{
+			"id": "52319FE0-553B-EE11-853D-309C23B13EE9",
+			"name": "crypto-js",
+			"contextname": "cryptojs",
+			"path": "\\Dev\\custom_modules2\\node_modules\\crypto-js"
 		}
 	],
 	"entitySets": [],
 	"apis": [],
 	"name": "test",
-	"ver": "23.12.12.1219",
+	"ver": "23.12.12.1530",
 	"description": null,
 	"content": "console.log('test');",
 	"useAsGlobalScript": false,
