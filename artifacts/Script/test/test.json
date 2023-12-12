@@ -1,0 +1,27 @@
+{
+	"id": "d9ebf350-e098-ee11-8555-309c23b13ee9",
+	"createdAt": "2023-12-12T11:19:35.546Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [
+		{
+			"id": "F7CE5375-B536-EE11-853B-309C23B13EE9",
+			"name": "moment",
+			"contextname": "moment",
+			"path": "/Dev/custom_modules/node_modules/moment"
+		}
+	],
+	"entitySets": [],
+	"apis": [],
+	"name": "test",
+	"ver": "23.12.12.1219",
+	"description": null,
+	"content": "console.log('test');",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "d7ebf350-e098-ee11-8555-309c23b13ee9",
+	"package": "6783f80b-de98-ee11-8555-309c23b13ee9"
+}
